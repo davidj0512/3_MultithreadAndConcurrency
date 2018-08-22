@@ -1,2 +1,1 @@
-# 3_MultithreadAndConcurrency
-Java Multithread And Concurrency Notes
+# Java Multithread And Concurrency Notes
